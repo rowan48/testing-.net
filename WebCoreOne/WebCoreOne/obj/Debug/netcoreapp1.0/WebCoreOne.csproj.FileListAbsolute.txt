@@ -1,0 +1,17 @@
+C:\Users\Rowan\source\repos\WebCoreOne\WebCoreOne\bin\Debug\netcoreapp1.0\appsettings.Development.json
+C:\Users\Rowan\source\repos\WebCoreOne\WebCoreOne\bin\Debug\netcoreapp1.0\appsettings.json
+C:\Users\Rowan\source\repos\WebCoreOne\WebCoreOne\bin\Debug\netcoreapp1.0\bower.json
+C:\Users\Rowan\source\repos\WebCoreOne\WebCoreOne\bin\Debug\netcoreapp1.0\bundleconfig.json
+C:\Users\Rowan\source\repos\WebCoreOne\WebCoreOne\bin\Debug\netcoreapp1.0\WebCoreOne.deps.json
+C:\Users\Rowan\source\repos\WebCoreOne\WebCoreOne\bin\Debug\netcoreapp1.0\WebCoreOne.runtimeconfig.json
+C:\Users\Rowan\source\repos\WebCoreOne\WebCoreOne\bin\Debug\netcoreapp1.0\WebCoreOne.runtimeconfig.dev.json
+C:\Users\Rowan\source\repos\WebCoreOne\WebCoreOne\bin\Debug\netcoreapp1.0\WebCoreOne.dll
+C:\Users\Rowan\source\repos\WebCoreOne\WebCoreOne\bin\Debug\netcoreapp1.0\WebCoreOne.pdb
+C:\Users\Rowan\source\repos\WebCoreOne\WebCoreOne\obj\Debug\netcoreapp1.0\WebCoreOne.csproj.AssemblyReference.cache
+C:\Users\Rowan\source\repos\WebCoreOne\WebCoreOne\obj\Debug\netcoreapp1.0\WebCoreOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rowan\source\repos\WebCoreOne\WebCoreOne\obj\Debug\netcoreapp1.0\WebCoreOne.AssemblyInfoInputs.cache
+C:\Users\Rowan\source\repos\WebCoreOne\WebCoreOne\obj\Debug\netcoreapp1.0\WebCoreOne.AssemblyInfo.cs
+C:\Users\Rowan\source\repos\WebCoreOne\WebCoreOne\obj\Debug\netcoreapp1.0\WebCoreOne.csproj.CoreCompileInputs.cache
+C:\Users\Rowan\source\repos\WebCoreOne\WebCoreOne\obj\Debug\netcoreapp1.0\WebCoreOne.dll
+C:\Users\Rowan\source\repos\WebCoreOne\WebCoreOne\obj\Debug\netcoreapp1.0\WebCoreOne.pdb
+C:\Users\Rowan\source\repos\WebCoreOne\WebCoreOne\obj\Debug\netcoreapp1.0\WebCoreOne.genruntimeconfig.cache
